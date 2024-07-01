@@ -2,7 +2,6 @@
         
         dcl-s name char(18);
 
-        name = "devanshu";
+        name = "devanshu sharma";
 
         *inlr = *on;
-        
